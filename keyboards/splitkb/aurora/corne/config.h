@@ -20,3 +20,4 @@
 #ifdef OLED_ENABLE
 #   define OLED_FONT_H "keyboards/splitkb/aurora/corne/glcdfont.c"
 #endif
+#define COMBO_COUNT 1
